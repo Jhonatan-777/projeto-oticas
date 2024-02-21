@@ -1,0 +1,36 @@
+header {
+  padding: 20px 15px;
+}
+
+.secao-topo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.secao-topo img {
+  width: 150px;
+}
+
+.secao-topo nav a {
+  font-size: 18px;
+  color: #000000;
+  text-decoration: none;
+  padding: 5px;
+  margin: 0 10px;
+}
+
+@media (max-width: 550px) {
+  .secao-topo {
+    flex-direction: column;
+  }
+
+  .secao-topo nav {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-top: 1px solid #aaadaf;
+  }
+}
