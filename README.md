@@ -5,7 +5,7 @@
 Projeto site de loja online de vendas de óculos, nome/marca Óticas-Vida.
 Esse projeto foi desenvolvido junto ao curso React.js da DevMedia.
 
-> Acesse em: [Óticas-Vida](https://projeto-manhattan-coffe.vercel.app/ "Óticas-Vida")
+> Acesse em: [Óticas-Vida](https://projeto-oticas.vercel.app// "Óticas-Vida")
 
 Nele criamos a página de um site de loja online que vende Óculos. O site é composto por uma pagina principal, com informações sobre a loja online seu diferencial, produtos e contatos:
 
