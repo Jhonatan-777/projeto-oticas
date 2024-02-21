@@ -11,13 +11,13 @@ Nele criamos a página de um site de loja online que vende Óculos. O site é co
 
 > ### Página Principal (Home):
 
-![imagem-oticas](https://github.com/Jhonatan-777/projeto-oticas-vida/assets/155544904/9be50255-9ed7-4ca0-ae07-1bf946a39bda)
+![imagem-oticas](https://github.com/Jhonatan-777/projeto-oticas/assets/155544904/91f47121-7d89-4e6f-97d3-ce8864d2648b)
 
 ---
 
 > ### Página responsiva:
 
-![imagem-oticas-responsivo](https://github.com/Jhonatan-777/projeto-oticas-vida/assets/155544904/bb31b450-0161-42e2-bc02-c22d40f0ef93)
+![imagem-oticas-responsivo](https://github.com/Jhonatan-777/projeto-oticas/assets/155544904/550b446d-5e15-4aef-9c63-7f172fd6c8d0)
 
 ---
 
